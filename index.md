@@ -5,7 +5,7 @@ My project is building and coding a Smart Mirror from scratch. The Smart Mirror 
 |:--:|:--:|:--:|:--:|
 | Ashwin T | Mountain View High | Computer Science / Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]
   
 # First Milestone
 
