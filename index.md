@@ -5,10 +5,9 @@ My project is building and coding a Smart Mirror from scratch. The Smart Mirror 
 |:--:|:--:|:--:|:--:|
 | Ashwin T | Mountain View High | Computer Science / Electrical Engineering | Incoming Senior
 
-![Headstone Image]
   
 # First Milestone
 
 My first milestone was setting up a Rasberry Pi and starting coding the display using React. I downloaded the Raspbian OS software onto the Pi using an SD card and set up the rest of the components inculding heatsinks, mouse and keyboard compoenents, and a display. With that part completed I started working on the code. I learned what Electron.js was and how it allows for code to be run as an application on Linux based operating systems. I used React to customize my components and was able to code a clock which updates in real time using Moment.js. I also learned how to work with aysnc functions and connected to APIs. Although implementing all my APIs is my second milestone, I got a little ahead and was able to display the current weather using the OpenWeather API which updates in realtime!
 
-[![First Milestone] {:target="_blank" rel="noopener"}
+[![Milestone #1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624315051/video_to_markdown/images/youtube--ZVm_Ppkx79U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZVm_Ppkx79U "Milestone #1")
