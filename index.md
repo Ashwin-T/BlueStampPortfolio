@@ -4,6 +4,17 @@ My project is building and coding a Smart Mirror from scratch. The Smart Mirror 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Ashwin T | Mountain View High | Computer Science / Electrical Engineering | Incoming Senior
+# Third  Milestone
+
+My third and final milestone was to create another app to control my mirror remotely. With this app I will be able to update my to-do list live as well change between my desired screen(as I have multiple). The point of this app is to not have to touch my Smart Mirror ever again and can be controled remotely from this app. To do this I needed to use my knowledge about Firebase firestore, a serverless backend made by Google Inc, and implement it in my project. Firestore will allow me to add and delete to-dos and also switch between screens. I also used my newly learned css flex-box skills to style my app and make it look nice. 
+
+[![Milestone #3](){:target="_blank" rel="noopener"}
+
+# Second Milestone
+
+My second milestone was to connect to all the APIs and use them to display data on my Smart Mirror. I used React as a client side framework and created components to display different data from the APIs. My APIs displayed data about the current weather, daily quotes, and my Todos. I had a lot of issuies trying to get data from different APIs so I had to create a backend server in order to fix the issues. I used and learned more about Node.js, Express.js, and learned more in detail about what backends are. In addition I did a lot of css styling. I learned about the conecept about flex boxes and managed to fix my css which made my app look better. With that I finished all 3 of my desired pages, however can not remotley move through them. For my third milestone I will make a whole new app to edit my To Do list remotley as well as have buttons to switch between different pages.
+
+[![Milestone #2](){:target="_blank" rel="noopener"}
 
 # First Milestone
 
