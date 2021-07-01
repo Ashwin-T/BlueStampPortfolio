@@ -1,1 +1,1 @@
-To edit your portfolio, please go over to the gh_pages branch!
+Code for my smart Mirror: https://github.com/Ashwin-T/SmartMirror
