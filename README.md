@@ -1,4 +1,4 @@
-#Code for my Smart Mirror: https://github.com/Ashwin-T/SmartMirror
+Code for my Smart Mirror: https://github.com/Ashwin-T/SmartMirror
 
 
 
