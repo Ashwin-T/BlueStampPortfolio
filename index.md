@@ -8,7 +8,7 @@ My project is building and coding a Smart Mirror from scratch. The Smart Mirror 
 
 # Demo/Presentation
 
-[![Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1625253827/video_to_markdown/images/youtube--bFk6glCCGhw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=bFk6glCCGhw "Demo")
+[![Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1625253827/video_to_markdown/images/youtube--bFk6glCCGhw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=bFk6glCCGhw "Demo"){:target="_blank" rel="noopener"}
 
 
 # Final/Third  Milestone
