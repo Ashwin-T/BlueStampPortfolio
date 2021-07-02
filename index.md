@@ -22,7 +22,7 @@ My third and final milestone was to create another app to control my mirror remo
 
 My second milestone was to connect to all the APIs and use them to display data on my Smart Mirror. I used React as a client side framework and created components to display different data from the APIs. My APIs displayed data about the current weather, daily quotes, and my Todos. I had a lot of issuies trying to get data from different APIs so I had to create a backend server in order to fix the issues. I used and learned more about Node.js, Express.js, and learned more in detail about what backends are. In addition I did a lot of css styling. I learned about the conecept about flex boxes and managed to fix my css which made my app look better. With that I finished all 3 of my desired pages, however can not remotley move through them. For my third milestone I will make a whole new app to edit my To Do list remotley as well as have buttons to switch between different pages.
 
-[![Milestone #2](){:target="_blank" rel="noopener"}
+[![Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1625248911/video_to_markdown/images/youtube--WKtefrkqe4w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WKtefrkqe4w "Milestone #2")
 
 # First Milestone
 
