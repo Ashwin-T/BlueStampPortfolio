@@ -11,7 +11,7 @@ My project is building and coding a Smart Mirror from scratch. The Smart Mirror 
 
 
 
-| Ashwin T | Mountain View High | Computer Science / Electrical Engineering | Incoming Senior
+| Ashwin T | Mountain View High | Computer Science | Incoming Senior
 # Third  Milestone
 
 My third and final milestone was to create another app to control my mirror remotely. With this app I will be able to update my to-do list live as well change between my desired screen(as I have multiple). The point of this app is to not have to touch my Smart Mirror ever again and can be controled remotely from this app. To do this I needed to use my knowledge about Firebase firestore, a serverless backend made by Google Inc, and implement it in my project. Firestore will allow me to add and delete to-dos and also switch between screens. I also used my newly learned css flex-box skills to style my app and make it look nice. 
