@@ -2,6 +2,15 @@
 My project is building and coding a Smart Mirror from scratch. The Smart Mirror is a mirror with a display behind it allowing it to show different components onto the screen. I am using a Rasberry Pi to run and display the code I have written. I wrote the code using React and numerous other JavaScript libraries incuding Moment.js and Electron.js, which allows the program to run as an application on a Linux operating system. I also used other node modules and APIs including the spotify API and OpenWeather API to display real time data. I hope to use my Smart Mirror to managa and organize my busy life.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
+
+
+
+
+
+
+
+
+
 | Ashwin T | Mountain View High | Computer Science / Electrical Engineering | Incoming Senior
 # Third  Milestone
 
