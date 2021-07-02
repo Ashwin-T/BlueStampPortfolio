@@ -1,4 +1,7 @@
-Code for my Smart Mirror: https://github.com/Ashwin-T/SmartMirror
+Portfolio for this project: https://ashwin-t.github.io/BlueStampPortfolio/
+
+Code for my actual Smart Mirror: https://github.com/Ashwin-T/SmartMirror
+
 
 
 
